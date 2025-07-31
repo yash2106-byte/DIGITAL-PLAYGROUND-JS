@@ -1,0 +1,39 @@
+.whole{
+    height: 100vh;
+    width: 100%; 
+    background-color: beige; 
+    display: grid;
+    place-items: center;   
+}
+#input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+
+}
+#input2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
+#output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem; 
+}
+h2{
+    text-wrap: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+h1{
+    text-wrap: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
